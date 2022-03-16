@@ -6,7 +6,9 @@ url: /about
 draft: false
 ---
 
-This page is a demo and test case my hugo lightgallery shortcode.
+This page is a demo and test case my [hugo lightgallery shortcode](https://github.com/flypenguin/hugo-shortcode-gallery).
+
+The source for this web page is also [on GitHub](https://github.com/flypenguin/hugo-shortcode-gallery-testsite).
 
 A couple of thanks:
 
