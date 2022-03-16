@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hugo-gallery-shortcode-demo.netlify.app/'
 languageCode = 'en-us'
 title = 'Hugo Gallery Shortcode Test Site'
 theme = "github.com/zwbetz-gh/minimal-bootstrap-hugo-theme"
