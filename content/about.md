@@ -10,6 +10,8 @@ This page is a demo and test case my [hugo lightgallery shortcode](https://githu
 
 The source for this web page is also [on GitHub](https://github.com/flypenguin/hugo-shortcode-gallery-testsite).
 
+See posts for [documentation](/).
+
 A couple of thanks:
 
 - [@SachinNeravath](https://twitter.com/SachinNeravath) for [lightgalleryJS](https://www.lightgalleryjs.com/)

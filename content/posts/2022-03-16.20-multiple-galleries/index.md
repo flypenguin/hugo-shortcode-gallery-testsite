@@ -1,5 +1,5 @@
 ---
-title: Multiple lightgalleries using globs
+title: "Example: Multiple lightgalleries using globs"
 author: Axel Bock
 date: 2022-03-16T09:45:10+01:00
 url: /2022/03/16/multiple-galleries

@@ -1,5 +1,5 @@
 ---
-title: Lightgallery from assets directory
+title: "Example: Lightgallery from assets directory"
 author: Axel Bock
 date: 2022-03-16T09:48:39+01:00
 url: /2022/03/16/gallery-from-assets-directory

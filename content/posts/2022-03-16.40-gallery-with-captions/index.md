@@ -1,5 +1,5 @@
 ---
-title: Lightgallery with captions
+title: "Example: Lightgallery with captions"
 author: Axel Bock
 date: 2022-03-16T10:34:03+01:00
 url: /2022/03/16/lightgallery-with-captions
